@@ -1,3 +1,4 @@
+# © @MikaVirus & @Ferid_Barthory
 import telebot
 import requests
 import re
